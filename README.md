@@ -10,7 +10,7 @@ Spyder也可以用作为基于PyQt的应用程序提供功能强大的控制台�
 Spyder网站：
 
 下载，错误报告和功能请求：https：//github.com/spyder-ide/spyder
-讨论：http：//groups.google.com/group/spyderlib
+讨论：http：//groups.google.com/group/spyderlib </br>
 文档目录内容：
 
 概述</br>
